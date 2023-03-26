@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationListener=\
+customize.log.config2.CustomizeLoggingListener
